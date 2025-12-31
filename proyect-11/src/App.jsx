@@ -11,14 +11,6 @@ function App() {
     getSelected(e.target.textContent);
   }
 
-  // const sendValues = () => {
-  //   console.log("Los datos son: " + selected)
-  //   ;
-  // }
-
-
-
-
   return (
     <>
       <section>
